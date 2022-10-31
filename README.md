@@ -5,7 +5,7 @@
 ASCII stands for "American Standard Code for Information Interchange".
 
 |       Character Name        | Char | Code    | Decimal |     Binary | Hexadecimal |
-| :-------------------------: | ---- | ------- | ------: | ---------: | ----------: |
+| :-------------------------: | :----: | :-------: | ------: | ---------: | ----------: |
 |         _**Null**_          | NUL  | Ctrl @  |       0 | _00000000_ |          00 |
 |   _**Start of Heading**_    | SOH  | Ctrl A  |       1 | _00000001_ |          01 |
 |     _**Start of Text**_     | STX  | Ctrl B  |       2 | _00000010_ |          02 |
