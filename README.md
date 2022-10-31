@@ -49,66 +49,11 @@ ASCII stands for "American Standard Code for Information Interchange".
 |   _**Left Parenthesis**_    | (    | Shift 9 |      40 | _00101000_ |          28 |
 |   _**Right Parenthesis**_   | )    | Shift 0 |      41 | _00101001_ |          29 |
 | _**Asterisk**_ | * | Shift 8 | 42 | _00101010_ | 2A |
-
-Plus Sign
-
-+
-
-Shift =
-
-43
-
-00101011
-
-2B
-
-Comma
-
-,
-
-,
-
-44
-
-00101100
-
-2C
-
-Hyphen / Minus Sign
-
--
-
--
-
-45
-
-00101101
-
-2D
-
-Period
-
-.
-
-.
-
-46
-
-00101110
-
-2E
-
-Forward Slash
-
-/
-
-/
-
-47
-
-00101111
-
-2F
+| _**Plus Sign**_ | + | Shift = | 43 | _00101011_ | 2B |
+| _**Comma**_ | , | , | 44 | _00101100_ | 2C |
+| _**Hyphen / Minus Sign**_ | - | - | 45 | _00101101_ | 2D |
+| _**Period**_ | . | . | 46 | _00101110_ | 2E |
+| _**Forward Slash**_ | / | / | 47 | _00101111_ | 2F |
 
 Zero Digit
 
@@ -118,9 +63,9 @@ Zero Digit
 
 48
 
-00110000
+_00110000_
 
-30
+30 |
 
 One Digit
 
