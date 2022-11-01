@@ -49,39 +49,402 @@ ASCII stands for "American Standard Code for Information Interchange".
 |   _**Left Parenthesis**_    | (    | Shift 9 |      40 | _00101000_ |          28 |
 |   _**Right Parenthesis**_   | )    | Shift 0 |      41 | _00101001_ |          29 |
 | _**Asterisk**_ | * | Shift 8 | 42 | _00101010_ | 2A |
-| _**Plus Sign**_ | + | Shift = | 43 | _00101011_ | 2B |
-| _**Comma**_ | , | , | 44 | _00101100_ | 2C |
-| _**Hyphen / Minus Sign**_ | - | - | 45 | _00101101_ | 2D |
-| _**Period**_ | . | . | 46 | _00101110_ | 2E |
-| _**Forward Slash**_ | / | / | 47 | _00101111_ | 2F |
-| _**Zero Digit**_ | 0 | 0 | 48 | _00110000_ | 30 |
-| _**One Digit**_ | 1 | 1 | 49 | _00110001_ | 31 |
-| _**Two Digit**_ | 2 | 2 | 50 | _00110010_ | 32 |
-| _**Three Digit**_ | 3 | 3 | 51 | _00110011_ | 33 |
-| _**Four Digit**_ | 4 | 4 | 52 | _00110100_ | 34 | 
-| _**Five Digit**_ | 5 | 5 | 53 | _00110101_ | 35 |
-| _**Six Digit**_ | 6 | 6 | 54 | _00110110_ | 36 |
-| _**Seven Digit**_ | 7 | 7 | 55 | _00110111_ | 37 |
-| _**Eight Digit**_ | 8 | 8 | 56 | _00111000_ | 38 |
-| _**Nine Digit**_ | 9 | 9 | 57 | _00111001_ | 39 |
-| _**Colon**_ | : | Shift ; | 58 | _00111010_ | 3A |
-| _**Semicolon**_ | ; | ; | 59 | _00111011_ | 3B |
-| _**Less-Than Sign**_ | < | Shift , | 60 | _00111100_ | 3C |
-| _**Equals Sign**_ | = | = |61 | _00111101_ | 3D |
-| _**Greater-Than Sign**_ | > | Shift . | 62 |_00111110_ |3E |
-| _**Question Mark**_ | ? | Shift / | 63 | _00111111_ | 3F |
-| _**At Sign**_ | @ | Shift 2 | 64 | _01000000_ | 40 |
-| _**Capital A**_ | A | Shift A | 65 | _01000001_ |41 |
-| _**Capital B**_ | B | Shift B | 66 | _01000010_ | 42 |
-| _**Capital C**_ | C | Shift C | 67 | _01000011_ | 43 |
-| _**Capital D**_ | D | Shift D | 68 | _01000100_ |44 |
-| _**Capital E**_ | E | Shift E | 69 | _01000101_ |45 |
-| _**Capital F**_ | F | Shift F | 70 | _01000110_ | 46 |
-| _**Capital G**_ | G | Shift G | 71 | _01000111_ | 47 |
-| _**Capital H**_ | H | Shift H | 72 | _01001000_ | 48 |
-| _**Capital I**_ | I | Shift I | 73 | _01001001_ | 49 |
-| _**Capital J**_ | J | Shift J | 74 | _01001010_ | 4A |
-| _**Capital K**_ | K | Shift K | 75 | _01001011_ | 4B |
+
+Plus Sign
+
++
+
+Shift =
+
+43
+
+00101011
+
+2B
+
+Comma
+
+,
+
+,
+
+44
+
+00101100
+
+2C
+
+Hyphen / Minus Sign
+
+-
+
+-
+
+45
+
+00101101
+
+2D
+
+Period
+
+.
+
+.
+
+46
+
+00101110
+
+2E
+
+Forward Slash
+
+/
+
+/
+
+47
+
+00101111
+
+2F
+
+Zero Digit
+
+0
+
+0
+
+48
+
+00110000
+
+30
+
+One Digit
+
+1
+
+1
+
+49
+
+00110001
+
+31
+
+Two Digit
+
+2
+
+2
+
+50
+
+00110010
+
+32
+
+Three Digit
+
+3
+
+3
+
+51
+
+00110011
+
+33
+
+Four Digit
+
+4
+
+4
+
+52
+
+00110100
+
+34
+
+Five Digit
+
+5
+
+5
+
+53
+
+00110101
+
+35
+
+Six Digit
+
+6
+
+6
+
+54
+
+00110110
+
+36
+
+Seven Digit
+
+7
+
+7
+
+55
+
+00110111
+
+37
+
+Eight Digit
+
+8
+
+8
+
+56
+
+00111000
+
+38
+
+Nine Digit
+
+9
+
+9
+
+57
+
+00111001
+
+39
+
+Colon
+
+:
+
+Shift ;
+
+58
+
+00111010
+
+3A
+
+Semicolon
+
+;
+
+;
+
+59
+
+00111011
+
+3B
+
+Less-Than Sign
+
+<
+
+Shift ,
+
+60
+
+00111100
+
+3C
+
+Equals Sign
+
+=
+
+=
+
+61
+
+00111101
+
+3D
+
+Greater-Than Sign
+
+>
+
+Shift .
+
+62
+
+00111110
+
+3E
+
+Question Mark
+
+?
+
+Shift /
+
+63
+
+00111111
+
+3F
+
+At Sign
+
+@
+
+Shift 2
+
+64
+
+01000000
+
+40
+
+Capital A
+
+A
+
+Shift A
+
+65
+
+01000001
+
+41
+
+Capital B
+
+B
+
+Shift B
+
+66
+
+01000010
+
+42
+
+Capital C
+
+C
+
+Shift C
+
+67
+
+01000011
+
+43
+
+Capital D
+
+D
+
+Shift D
+
+68
+
+01000100
+
+44
+
+Capital E
+
+E
+
+Shift E
+
+69
+
+01000101
+
+45
+
+Capital F
+
+F
+
+Shift F
+
+70
+
+01000110
+
+46
+
+Capital G
+
+G
+
+Shift G
+
+71
+
+01000111
+
+47
+
+Capital H
+
+H
+
+Shift H
+
+72
+
+01001000
+
+48
+
+Capital I
+
+I
+
+Shift I
+
+73
+
+01001001
+
+49
+
+Capital J
+
+J
+
+Shift J
+
+74
+
+01001010
+
+4A
+
+Capital K
+
+K
+
+Shift K
+
+75
+
+01001011
+
+4B
 
 Capital L
 
