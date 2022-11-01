@@ -66,189 +66,22 @@ ASCII stands for "American Standard Code for Information Interchange".
 | _**Nine Digit**_ | 9 | 9 | 57 | _00111001_ | 39 |
 | _**Colon**_ | : | Shift ; | 58 | _00111010_ | 3A |
 | _**Semicolon**_ | ; | ; | 59 | _00111011_ | 3B |
-| _**Less-Than Sign**_ | 
-
-< Shift , | 60 | _00111100_ | 3C |
-
-Equals Sign
-
-=
-
-=
-
-61
-
-00111101
-
-3D
-
-Greater-Than Sign
-
->
-
-Shift .
-
-62
-
-00111110
-
-3E
-
-Question Mark
-
-?
-
-Shift /
-
-63
-
-00111111
-
-3F
-
-At Sign
-
-@
-
-Shift 2
-
-64
-
-01000000
-
-40
-
-Capital A
-
-A
-
-Shift A
-
-65
-
-01000001
-
-41
-
-Capital B
-
-B
-
-Shift B
-
-66
-
-01000010
-
-42
-
-Capital C
-
-C
-
-Shift C
-
-67
-
-01000011
-
-43
-
-Capital D
-
-D
-
-Shift D
-
-68
-
-01000100
-
-44
-
-Capital E
-
-E
-
-Shift E
-
-69
-
-01000101
-
-45
-
-Capital F
-
-F
-
-Shift F
-
-70
-
-01000110
-
-46
-
-Capital G
-
-G
-
-Shift G
-
-71
-
-01000111
-
-47
-
-Capital H
-
-H
-
-Shift H
-
-72
-
-01001000
-
-48
-
-Capital I
-
-I
-
-Shift I
-
-73
-
-01001001
-
-49
-
-Capital J
-
-J
-
-Shift J
-
-74
-
-01001010
-
-4A
-
-Capital K
-
-K
-
-Shift K
-
-75
-
-01001011
-
-4B
+| _**Less-Than Sign**_ | < | Shift , | 60 | _00111100_ | 3C |
+| _**Equals Sign**_ | = | = |61 | _00111101_ | 3D |
+| _**Greater-Than Sign**_ | > | Shift . | 62 |_00111110_ |3E |
+| _**Question Mark**_ | ? | Shift / | 63 | _00111111_ | 3F |
+| _**At Sign**_ | @ | Shift 2 | 64 | _01000000_ | 40 |
+| _**Capital A**_ | A | Shift A | 65 | _01000001_ |41 |
+| _**Capital B**_ | B | Shift B | 66 | _01000010_ | 42 |
+| _**Capital C**_ | C | Shift C | 67 | _01000011_ | 43 |
+| _**Capital D**_ | D | Shift D | 68 | _01000100_ |44 |
+| _**Capital E**_ | E | Shift E | 69 | _01000101_ |45 |
+| _**Capital F**_ | F | Shift F | 70 | _01000110_ | 46 |
+| _**Capital G**_ | G | Shift G | 71 | _01000111_ | 47 |
+| _**Capital H**_ | H | Shift H | 72 | _01001000_ | 48 |
+| _**Capital I**_ | I | Shift I | 73 | _01001001_ | 49 |
+| _**Capital J**_ | J | Shift J | 74 | _01001010_ | 4A |
+| _**Capital K**_ | K | Shift K | 75 | _01001011_ | 4B |
 
 Capital L
 
