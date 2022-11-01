@@ -54,162 +54,21 @@ ASCII stands for "American Standard Code for Information Interchange".
 | _**Hyphen / Minus Sign**_ | - | - | 45 | _00101101_ | 2D |
 | _**Period**_ | . | . | 46 | _00101110_ | 2E |
 | _**Forward Slash**_ | / | / | 47 | _00101111_ | 2F |
-
-Zero Digit
-
-0
-
-0
-
-48
-
-_00110000_
-
-30 |
-
-One Digit
-
-1
-
-1
-
-49
-
-00110001
-
-31
-
-Two Digit
-
-2
-
-2
-
-50
-
-00110010
-
-32
-
-Three Digit
-
-3
-
-3
-
-51
-
-00110011
-
-33
-
-Four Digit
-
-4
-
-4
-
-52
-
-00110100
-
-34
-
-Five Digit
-
-5
-
-5
-
-53
-
-00110101
-
-35
-
-Six Digit
-
-6
-
-6
-
-54
-
-00110110
-
-36
-
-Seven Digit
-
-7
-
-7
-
-55
-
-00110111
-
-37
-
-Eight Digit
-
-8
-
-8
-
-56
-
-00111000
-
-38
-
-Nine Digit
-
-9
-
-9
-
-57
-
-00111001
-
-39
-
-Colon
-
-:
-
-Shift ;
-
-58
-
-00111010
-
-3A
-
-Semicolon
-
-;
-
-;
-
-59
-
-00111011
-
-3B
-
-Less-Than Sign
-
-<
-
-Shift ,
-
-60
-
-00111100
-
-3C
+| _**Zero Digit**_ | 0 | 0 | 48 | _00110000_ | 30 |
+| _**One Digit**_ | 1 | 1 | 49 | _00110001_ | 31 |
+| _**Two Digit**_ | 2 | 2 | 50 | _00110010_ | 32 |
+| _**Three Digit**_ | 3 | 3 | 51 | _00110011_ | 33 |
+| _**Four Digit**_ | 4 | 4 | 52 | _00110100_ | 34 | 
+| _**Five Digit**_ | 5 | 5 | 53 | _00110101_ | 35 |
+| _**Six Digit**_ | 6 | 6 | 54 | _00110110_ | 36 |
+| _**Seven Digit**_ | 7 | 7 | 55 | _00110111_ | 37 |
+| _**Eight Digit**_ | 8 | 8 | 56 | _00111000_ | 38 |
+| _**Nine Digit**_ | 9 | 9 | 57 | _00111001_ | 39 |
+| _**Colon**_ | : | Shift ; | 58 | _00111010_ | 3A |
+| _**Semicolon**_ | ; | ; | 59 | _00111011_ | 3B |
+| _**Less-Than Sign**_ | 
+
+< Shift , | 60 | _00111100_ | 3C |
 
 Equals Sign
 
