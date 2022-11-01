@@ -4,6 +4,7 @@
 
 ASCII stands for "American Standard Code for Information Interchange".
 
+<<<<<<< HEAD
 |       Character Name        | Char | Code    | Decimal |     Binary | Hexadecimal |
 | :-------------------------: | :----: | :-------: | ------: | ---------: | ----------: |
 |         _**Null**_          | NUL  | Ctrl @  |       0 | _00000000_ |          00 |
@@ -49,6 +50,64 @@ ASCII stands for "American Standard Code for Information Interchange".
 |   _**Left Parenthesis**_    | (    | Shift 9 |      40 | _00101000_ |          28 |
 |   _**Right Parenthesis**_   | )    | Shift 0 |      41 | _00101001_ |          29 |
 | _**Asterisk**_ | * | Shift 8 | 42 | _00101010_ | 2A |
+=======
+| Character Name | Char | Code | Decimal | Binary | Hexadecimal |
+| :---: | --- | --- | ---: | ---: | ---: |
+| _**Null**_ | NUL | Ctrl @ | 0 | _00000000_ | 00 |
+| _**Start of Heading**_ | SOH | Ctrl A | 1 | _00000001_ | 01 |
+| _**Start of Text**_ | STX | Ctrl B | 2 | _00000010_ | 02 |
+| _**End of Text**_ | ETX | Ctrl C | 3 | _00000011_ | 03 |
+| _**End of Transmit**_ | EOT | Ctrl D | 4 | _00000100_ | 04 |
+| _**Enquiry**_ | ENQ | Ctrl E | 5 | _00000101_ | 05 |
+| _**Acknowledge**_ | ACK | Ctrl F | 6 | _00000110_ | 06 |
+| _**Bell**_ | BEL | Ctrl G | 7 | _00000111_ | 07 |
+| _**Back Space**_ | BS | Ctrl H | 8 | _00001000_ | 08 |
+| _**Horizontal Tab**_ | TAB | Ctrl I | 9 | 00001001 | 09 |
+| _**Line Feed**_ | LF | Ctrl J | 10 | _00001010_ | 0A |
+| _**Vertical Tab**_ | VT | Ctrl K | 11 | _00001011_ | 0B |
+| _**Form Feed**_ | FF | Ctrl L | 12 | _00001100_ | 0C |
+| _**Carriage Retun**_ | CR | Ctrl M | 13 | _00001101_ | 0D |
+| _**Shift Out**_ | SO | Ctrl N | 14 | _00001110_ | 0E |
+| _**Shift In**_ | SI | Ctrl O | 15 | _00001111_ | 0F |
+| _**Data Line Escape**_ | DLE | Ctrl P | 16 | _00010000_ | 10 |
+| _**Device Control 1**_ | DC1 | Ctrl Q | 17 | _00010001_ | 11 |
+| _**Device Control 2**_ | DC2 | Ctrl R | 18 | _00010010_ | 12 |
+| _**Device Control 3**_ | DC3 | Ctrl S | 19 | _00010011_ | 13 |
+| _**Device Control 4**_ | CD4 | Ctrl T | 20 | _00010100_ | 14 |
+| _**Negative Acknowledge**_ | NAK | Ctrl U | 21 | _00010101_ | 15 |
+| _**Synchronous Idle**_ | SYN | Ctrl V | 22 | _00010110_ | 16 |
+| _**End of Transmit Block**_ | ETB | Ctrl W | 23 | _00010111_ | 17 |
+| _**Cancel**_ | CAN | Ctrl X | 24 | _00011000_ | 18 |
+| _**End Of Medium**_ | EM | Ctrl Y | 25 | _00011001_ | 19 |
+| _**Substitute**_ | SUB | Ctrl Z | 26 | _00011010_ | 1A |
+| _**Escape**_ | ESC | Ctrl [ | 27 | _00011011_ | 1B |
+| _**File Separator**_ | FS | Ctrl \ | 28 | _00011100_ | 1C |
+| _**Group Separator**_ | GS | Ctrl ] | 29 | _00011101_ | 1D |
+| _**Record Separator**_ | RS | Ctrl ^ | 30 | _00011110_ | 1E |
+| _**Unit Separator**_ | US | Ctrl _ | 31 | _00011111_ | 1F |
+| _**Space** |  |  | 32 | _00100000_ | 20 |
+| _**Exclamation Point**_ | ! | Shift 1 | 33 | _00100001_ | 21 |
+| _**Double Quote**_ | " | Shift ‘ | 34 | _00100010_ | 22 |
+| _**Pound/Number Sign**_ | # | Shift 3 | 35 | _00100011_ | 23 |
+| _**Dollar Sign**_ | $ | Shift 4 | 36 | _00100100_ | 24 |
+| _**Percent Sign**_ | % | Shift 5 | 37 | _00100101_ | 25 |
+| _**Ampersand**_ | & | Shift 7 | 38 | _00100110_ | 26 |
+| _**Single Quote**_ | ‘ | ‘ | 39 | _00100111_ | 27 |
+| _**Left Parenthesis**_ | ( | Shift 9 | 40 | _00101000_ | 28 |
+|_**Right Parenthesis**_ | ) | Shift 0 | 41 | _00101001_ | 29 |
+
+Asterisk
+
+*
+
+Shift 8
+
+42
+
+00101010
+
+2A
+>>>>>>> parent of eb4e77a (update)
 
 Plus Sign
 
