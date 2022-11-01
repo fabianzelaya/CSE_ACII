@@ -70,151 +70,19 @@ ASCII stands for "American Standard Code for Information Interchange".
 |      _**Equals Sign**_      |   =   |    =    |      61 | _00111101_ |          3D |
 |   _**Greater-Than Sign**_   |   >   | Shift . |      62 | _00111110_ |          3E |
 |      _**Question Mark       |   ?   | Shift / |      63 | _00111111_ |          3F |
-
-At Sign
-
-@
-
-Shift 2
-
-64
-
-01000000
-
-40
-
-Capital A
-
-A
-
-Shift A
-
-65
-
-01000001
-
-41
-
-Capital B
-
-B
-
-Shift B
-
-66
-
-01000010
-
-42
-
-Capital C
-
-C
-
-Shift C
-
-67
-
-01000011
-
-43
-
-Capital D
-
-D
-
-Shift D
-
-68
-
-01000100
-
-44
-
-Capital E
-
-E
-
-Shift E
-
-69
-
-01000101
-
-45
-
-Capital F
-
-F
-
-Shift F
-
-70
-
-01000110
-
-46
-
-Capital G
-
-G
-
-Shift G
-
-71
-
-01000111
-
-47
-
-Capital H
-
-H
-
-Shift H
-
-72
-
-01001000
-
-48
-
-Capital I
-
-I
-
-Shift I
-
-73
-
-01001001
-
-49
-
-Capital J
-
-J
-
-Shift J
-
-74
-
-01001010
-
-4A
-
-Capital K
-
-K
-
-Shift K
-
-75
-
-01001011
-
-4B
-
+|        _**At Sign**_        |   @   | Shift 2 |      64 | _01000000_ |          40 |
+|       _**Capital A**_       |   A   | Shift A |      65 | _01000001_ |          41 |
+|       _**Capital B**_       |   B   | Shift B |      66 | _01000010_ |          42 |
+|       _**Capital C**_       |   C   | Shift C |      67 | _01000011_ |          43 |
+|       _**Capital D**_       |   D   | Shift D |      68 | _01000100_ |          44 |
+|       _**Capital E**_       |   E   | Shift E |      69 | _01000101_ |          45 |
+|       _**Capital F**_       |   F   | Shift F |      70 | _01000110_ |          46 |
+|       _**Capital G**_       |   G   | Shift G |      71 | _01000111_ |          47 |
+|       _**Capital H**_       |   H   | Shift H |      72 | _01001000_ |          48 |
+|       _**Capital I**_       |   I   | Shift I |      73 | _01001001_ |          49 |
+|       _**Capital J**_       |   J   | Shift J |      74 | _01001010_ |          4A |
+|       _**Capital K**_       |   K   | Shift K |      75 | _01001011_ |          4B |
+|             _**             |
 Capital L
 
 L
@@ -226,7 +94,7 @@ Shift L
 01001100
 
 4C
-
+| _**
 Capital M
 
 M
@@ -238,7 +106,7 @@ Shift M
 01001101
 
 4D
-
+| _**
 Capital N
 
 N
@@ -250,7 +118,7 @@ Shift N
 01001110
 
 4E
-
+| _**
 Capital O
 
 O
@@ -262,7 +130,7 @@ Shift O
 01001111
 
 4F
-
+| _**
 Capital P
 
 P
@@ -274,7 +142,7 @@ Shift P
 01010000
 
 50
-
+| _**
 Capital Q
 
 Q
@@ -286,7 +154,7 @@ Shift Q
 01010001
 
 51
-
+| _**
 Capital R
 
 R
@@ -298,7 +166,7 @@ Shift R
 01010010
 
 52
-
+| _**
 Capital S
 
 S
@@ -310,7 +178,7 @@ Shift S
 01010011
 
 53
-
+| _**
 Capital T
 
 T
@@ -322,7 +190,7 @@ Shift T
 01010100
 
 54
-
+| _**
 Capital U
 
 U
@@ -334,7 +202,7 @@ Shift U
 01010101
 
 55
-
+| _**
 Capital V
 
 V
@@ -346,7 +214,7 @@ Shift V
 01010110
 
 56
-
+| _**
 Capital W
 
 W
@@ -358,7 +226,7 @@ Shift W
 01010111
 
 57
-
+| _**
 Capital X
 
 X
@@ -370,7 +238,7 @@ Shift X
 01011000
 
 58
-
+| _**
 Capital Y
 
 Y
@@ -382,7 +250,7 @@ Shift Y
 01011001
 
 59
-
+| _**
 Capital Z
 
 Z
@@ -394,7 +262,7 @@ Shift Z
 01011010
 
 5A
-
+| _**
 Left Bracket
 
 [
@@ -406,7 +274,7 @@ Left Bracket
 01011011
 
 5B
-
+| _**
 Backward Slash
 
 \
@@ -418,7 +286,7 @@ Backward Slash
 01011100
 
 5C
-
+| _**
 Right Bracket
 
 ]
@@ -430,7 +298,7 @@ Right Bracket
 01011101
 
 5D
-
+| _**
 Caret
 
 ^
@@ -442,7 +310,7 @@ Shift 6
 01011110
 
 5E
-
+| _**
 Underscore
 
 _
@@ -454,7 +322,7 @@ Shift -
 01011111
 
 5F
-
+| _**
 Back Quote
 
 `
@@ -466,7 +334,7 @@ Back Quote
 01100000
 
 60
-
+| _**
 Lower-case A
 
 a
@@ -478,7 +346,7 @@ A
 01100001
 
 61
-
+| _**
 Lower-case B
 
 b
@@ -490,7 +358,7 @@ B
 01100010
 
 62
-
+| _**
 Lower-case C
 
 c
@@ -502,8 +370,7 @@ C
 01100011
 
 63
-
-Lower-case D
+| _**Lower-case D
 
 d
 
@@ -514,8 +381,7 @@ D
 01100100
 
 64
-
-Lower-case E
+| _**Lower-case E
 
 e
 
@@ -526,8 +392,7 @@ E
 01100101
 
 65
-
-Lower-case F
+| _**Lower-case F
 
 f
 
@@ -538,8 +403,7 @@ F
 01100110
 
 66
-
-Lower-case G
+| _**Lower-case G
 
 g
 
@@ -550,8 +414,7 @@ G
 01100111
 
 67
-
-Lower-case H
+| _**Lower-case H
 
 h
 
@@ -562,8 +425,7 @@ H
 01101000
 
 68
-
-Lower-case I
+| _**Lower-case I
 
 I
 
@@ -574,8 +436,7 @@ I
 01101001
 
 69
-
-Lower-case J
+| _**Lower-case J
 
 j
 
@@ -586,8 +447,7 @@ J
 01101010
 
 6A
-
-Lower-case K
+| _**Lower-case K
 
 k
 
@@ -598,8 +458,7 @@ K
 01101011
 
 6B
-
-Lower-case L
+| _**Lower-case L
 
 l
 
@@ -610,8 +469,7 @@ L
 01101100
 
 6C
-
-Lower-case M
+| _**Lower-case M
 
 m
 
@@ -622,8 +480,7 @@ M
 01101101
 
 6D
-
-Lower-case N
+| _**Lower-case N
 
 n
 
@@ -634,8 +491,7 @@ N
 01101110
 
 6E
-
-Lower-case O
+| _**Lower-case O
 
 o
 
@@ -646,8 +502,7 @@ O
 01101111
 
 6F
-
-Lower-case P
+| _**Lower-case P
 
 p
 
@@ -658,8 +513,7 @@ P
 01110000
 
 70
-
-Lower-case Q
+| _**Lower-case Q
 
 q
 
@@ -670,8 +524,7 @@ Q
 01110001
 
 71
-
-Lower-case R
+| _**Lower-case R
 
 r
 
@@ -682,8 +535,7 @@ R
 01110010
 
 72
-
-Lower-case S
+| _**Lower-case S
 
 s
 
@@ -694,8 +546,7 @@ S
 01110011
 
 73
-
-Lower-case T
+| _**Lower-case T
 
 t
 
@@ -706,8 +557,7 @@ T
 01110100
 
 74
-
-Lower-case U
+| _**Lower-case U
 
 u
 
@@ -718,8 +568,7 @@ U
 01110101
 
 75
-
-Lower-case V
+| _**Lower-case V
 
 v
 
@@ -730,8 +579,7 @@ V
 01110110
 
 76
-
-Lower-case W
+| _**Lower-case W
 
 w
 
@@ -742,8 +590,7 @@ W
 01110111
 
 77
-
-Lower-case X
+| _**Lower-case X
 
 x
 
@@ -754,8 +601,7 @@ X
 01111000
 
 78
-
-Lower-case Y
+| _**Lower-case Y
 
 y
 
@@ -766,8 +612,7 @@ Y
 01111001
 
 79
-
-Lower-case Z
+| _**Lower-case Z
 
 z
 
@@ -778,8 +623,7 @@ Z
 01111010
 
 7A
-
-Left Brace
+| _**Left Brace
 
 {
 
@@ -790,8 +634,7 @@ Shift [
 01111011
 
 7B
-
-Vertical Bar
+| _**Vertical Bar
 
 |
 
@@ -802,8 +645,7 @@ Shift \
 01111100
 
 7C
-
-Right Brace
+| _**Right Brace
 
 }
 
@@ -814,8 +656,7 @@ Shift ]
 01111101
 
 7D
-
-Tilde
+| _**Tilde
 
 ~
 
@@ -826,8 +667,7 @@ Shift `
 01111110
 
 7E
-
-Delta
+| _**Delta
 
 D
 
