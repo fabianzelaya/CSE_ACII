@@ -87,66 +87,11 @@ ASCII stands for "American Standard Code for Information Interchange".
 | _**Capital N**_ | N | Shift N | 78 | _01001110_ | 4E |
 | _**Capital O**_ | O | Shift O | 79 | _01001111_ | 4F |
 | _**Capital P**_ | P | Shift P | 80 |_01010000_ | 50 |
-| _**
-Capital Q
-
-Q
-
-Shift Q
-
-81
-
-01010001
-
-51
-| _**
-Capital R
-
-R
-
-Shift R
-
-82
-
-01010010
-
-52
-| _**
-Capital S
-
-S
-
-Shift S
-
-83
-
-01010011
-
-53
-| _**
-Capital T
-
-T
-
-Shift T
-
-84
-
-01010100
-
-54
-| _**
-Capital U
-
-U
-
-Shift U
-
-85
-
-01010101
-
-55
+| _**Capital Q**_ | Q | Shift Q | 81 | _01010001_ | 51 |
+| _**Capital R**_ | R | Shift R | 82 | _01010010_ | 52 |
+| _**Capital S**_ | S | Shift S | 83 | _01010011_ | 53 |
+| _**Capital T**_ | T | Shift T | 84 | _01010100_ | 54 |
+| _**Capital U**_ | U | Shift U | 85 | _01010101_ | 55 |
 | _**
 Capital V
 
