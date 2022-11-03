@@ -69,7 +69,7 @@ ASCII stands for "American Standard Code for Information Interchange".
 |    _**Less-Than Sign**_     |   <   | Shift , |      60 | _00111100_ |          3C |
 |      _**Equals Sign**_      |   =   |    =    |      61 | _00111101_ |          3D |
 |   _**Greater-Than Sign**_   |   >   | Shift . |      62 | _00111110_ |          3E |
-|      _**Question Mark       |   ?   | Shift / |      63 | _00111111_ |          3F |
+|      _**Question Mark**_       |   ?   | Shift / |      63 | _00111111_ |          3F |
 |        _**At Sign**_        |   @   | Shift 2 |      64 | _01000000_ |          40 |
 |       _**Capital A**_       |   A   | Shift A |      65 | _01000001_ |          41 |
 |       _**Capital B**_       |   B   | Shift B |      66 | _01000010_ |          42 |
