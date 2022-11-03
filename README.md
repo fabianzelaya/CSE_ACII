@@ -82,327 +82,43 @@ ASCII stands for "American Standard Code for Information Interchange".
 |       _**Capital I**_       |   I   | Shift I |      73 | _01001001_ |          49 |
 |       _**Capital J**_       |   J   | Shift J |      74 | _01001010_ |          4A |
 |       _**Capital K**_       |   K   | Shift K |      75 | _01001011_ |          4B |
-| _**Capital L**_ | L | Shift L | 76 | _01001100_ | 4C |
-| _**Capital M**_ | M | Shift M | 77 | _01001101_ | 4D |
-| _**Capital N**_ | N | Shift N | 78 | _01001110_ | 4E |
-| _**Capital O**_ | O | Shift O | 79 | _01001111_ | 4F |
-| _**Capital P**_ | P | Shift P | 80 |_01010000_ | 50 |
-| _**Capital Q**_ | Q | Shift Q | 81 | _01010001_ | 51 |
-| _**Capital R**_ | R | Shift R | 82 | _01010010_ | 52 |
-| _**Capital S**_ | S | Shift S | 83 | _01010011_ | 53 |
-| _**Capital T**_ | T | Shift T | 84 | _01010100_ | 54 |
-| _**Capital U**_ | U | Shift U | 85 | _01010101_ | 55 |
-| _**
-Capital V
-
-V
-
-Shift V
-
-86
-
-01010110
-
-56
-| _**
-Capital W
-
-W
-
-Shift W
-
-87
-
-01010111
-
-57
-| _**
-Capital X
-
-X
-
-Shift X
-
-88
-
-01011000
-
-58
-| _**
-Capital Y
-
-Y
-
-Shift Y
-
-89
-
-01011001
-
-59
-| _**
-Capital Z
-
-Z
-
-Shift Z
-
-90
-
-01011010
-
-5A
-| _**
-Left Bracket
-
-[
-
-[
-
-91
-
-01011011
-
-5B
-| _**
-Backward Slash
-
-\
-
-\
-
-92
-
-01011100
-
-5C
-| _**
-Right Bracket
-
-]
-
-]
-
-93
-
-01011101
-
-5D
-| _**
-Caret
-
-^
-
-Shift 6
-
-94
-
-01011110
-
-5E
-| _**
-Underscore
-
-_
-
-Shift -
-
-95
-
-01011111
-
-5F
-| _**
-Back Quote
-
-`
-
-`
-
-96
-
-01100000
-
-60
-| _**
-Lower-case A
-
-a
-
-A
-
-97
-
-01100001
-
-61
-| _**
-Lower-case B
-
-b
-
-B
-
-98
-
-01100010
-
-62
-| _**
-Lower-case C
-
-c
-
-C
-
-99
-
-01100011
-
-63
-| _**Lower-case D
-
-d
-
-D
-
-100
-
-01100100
-
-64
-| _**Lower-case E
-
-e
-
-E
-
-101
-
-01100101
-
-65
-| _**Lower-case F
-
-f
-
-F
-
-102
-
-01100110
-
-66
-| _**Lower-case G
-
-g
-
-G
-
-103
-
-01100111
-
-67
-| _**Lower-case H
-
-h
-
-H
-
-104
-
-01101000
-
-68
-| _**Lower-case I
-
-I
-
-I
-
-105
-
-01101001
-
-69
-| _**Lower-case J
-
-j
-
-J
-
-106
-
-01101010
-
-6A
-| _**Lower-case K
-
-k
-
-K
-
-107
-
-01101011
-
-6B
-| _**Lower-case L
-
-l
-
-L
-
-108
-
-01101100
-
-6C
-| _**Lower-case M
-
-m
-
-M
-
-109
-
-01101101
-
-6D
-| _**Lower-case N
-
-n
-
-N
-
-110
-
-01101110
-
-6E
-| _**Lower-case O
-
-o
-
-O
-
-111
-
-01101111
-
-6F
-| _**Lower-case P
-
-p
-
-P
-
-112
-
-01110000
-
-70
+|       _**Capital L**_       |   L   | Shift L |      76 | _01001100_ |          4C |
+|       _**Capital M**_       |   M   | Shift M |      77 | _01001101_ |          4D |
+|       _**Capital N**_       |   N   | Shift N |      78 | _01001110_ |          4E |
+|       _**Capital O**_       |   O   | Shift O |      79 | _01001111_ |          4F |
+|       _**Capital P**_       |   P   | Shift P |      80 | _01010000_ |          50 |
+|       _**Capital Q**_       |   Q   | Shift Q |      81 | _01010001_ |          51 |
+|       _**Capital R**_       |   R   | Shift R |      82 | _01010010_ |          52 |
+|       _**Capital S**_       |   S   | Shift S |      83 | _01010011_ |          53 |
+|       _**Capital T**_       |   T   | Shift T |      84 | _01010100_ |          54 |
+|       _**Capital U**_       |   U   | Shift U |      85 | _01010101_ |          55 |
+|       _**Capital V**_       |   V   | Shift V |      86 | _01010110_ |          56 |
+|       _**Capital W**_       |   W   | Shift W |      87 | _01010111_ |          57 |
+|       _**Capital X**_       |   X   | Shift X |      88 | _01011000_ |          58 |
+|       _**Capital Y**_       |   Y   | Shift Y |      89 | _01011001_ |          59 |
+|       _**Capital Z**_       |   Z   | Shift Z |      90 | _01011010_ |          5A |
+|       _**Left Bracket       |   [   |    [    |      91 | _01011011_ |          5B |
+|      _**Backward Slash      |   \   |    \    |      92 | _01011100_ |          5C |
+|     _**Right Bracket**_     |   ]   |    ]    |      93 | _01011101_ |          5D |
+|         _**Caret**_         |   ^   | Shift 6 |      94 | _01011110_ |          5E |
+|      _**Underscore**_       |   _   | Shift - |      95 | _01011111_ |          5F |
+|      _**Back Quote**_       |   `   |    `    |      96 | _01100000_ |          60 |
+|     _**Lower-case A**_      |   a   |    A    |      97 | _01100001_ |          61 |
+|     _**Lower-case B**_      |   b   |    B    |      98 | _01100010_ |          62 |
+|     _**Lower-case C**_      |   c   |    C    |      99 | _01100011_ |          63 |
+|     _**Lower-case D**_      |   d   |    D    |     100 | _01100100_ |          64 |
+|     _**Lower-case E**_      |   e   |    E    |     101 | _01100101_ |          65 |
+|     _**Lower-case F**_      |   f   |    F    |     102 | _01100110_ |          66 |
+|     _**Lower-case G**_      |   g   |    G    |     103 | _01100111_ |          67 |
+|     _**Lower-case H**_      |   h   |    H    |     104 | _01101000_ |          68 |
+|     _**Lower-case I**_      |   I   |    I    |     105 | _01101001_ |          69 |
+|     _**Lower-case J**_      |   j   |    J    |     106 | _01101010_ |          6A |
+|     _**Lower-case K**_      |   k   |    K    |     107 | _01101011_ |          6B |
+|     _**Lower-case L**_      |   l   |    L    |     108 | _01101100_ |          6C |
+|     _**Lower-case M**_      |   m   |    M    |     109 | _01101101_ |          6D |
+|     _**Lower-case N**_      | n | N | 110 | _01101110_ | 6E |
+| _**Lower-case O**_ | o | O | 111 | _01101111_ | 6F |
+| _**Lower-case P**_ | p | P | 112 | _01110000_ | 70 |
 | _**Lower-case Q
 
 q
