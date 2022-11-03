@@ -38,7 +38,7 @@ ASCII stands for "American Standard Code for Information Interchange".
 |    _**Group Separator**_    |  GS   | Ctrl ]  |      29 | _00011101_ |          1D |
 |   _**Record Separator**_    |  RS   | Ctrl ^  |      30 | _00011110_ |          1E |
 |    _**Unit Separator**_     |  US   | Ctrl _  |      31 | _00011111_ |          1F |
-|         _**Space**          |       |         |      32 | _00100000_ |          20 |
+|         _**Space**_          |       |         |      32 | _00100000_ |          20 |
 |   _**Exclamation Point**_   |   !   | Shift 1 |      33 | _00100001_ |          21 |
 |     _**Double Quote**_      |   "   | Shift ‘ |      34 | _00100010_ |          22 |
 |   _**Pound/Number Sign**_   |   #   | Shift 3 |      35 | _00100011_ |          23 |
@@ -61,7 +61,7 @@ ASCII stands for "American Standard Code for Information Interchange".
 |      _**Four Digit**_       |   4   |    4    |      52 | _00110100_ |          34 |
 |      _**Five Digit**_       |   5   |    5    |      53 | _00110101_ |          35 |
 |       _**Six Digit**_       |   6   |    6    |      54 | _00110110_ |          36 |
-|       _**Seven Digit_       |   7   |    7    |      55 | _00110111_ |          37 |
+|       _**Seven Digit**_       |   7   |    7    |      55 | _00110111_ |          37 |
 |      _**Eight Digit**_      |   8   |    8    |      56 | _00111000_ |          38 |
 |      _**Nine Digit**_       |   9   |    9    |      57 | _00111001_ |          39 |
 |         _**Colon**_         |   :   | Shift ; |      58 | _00111010_ |          3A |
@@ -97,8 +97,8 @@ ASCII stands for "American Standard Code for Information Interchange".
 |       _**Capital X**_       |   X   | Shift X |      88 | _01011000_ |          58 |
 |       _**Capital Y**_       |   Y   | Shift Y |      89 | _01011001_ |          59 |
 |       _**Capital Z**_       |   Z   | Shift Z |      90 | _01011010_ |          5A |
-|       _**Left Bracket       |   [   |    [    |      91 | _01011011_ |          5B |
-|      _**Backward Slash      |   \   |    \    |      92 | _01011100_ |          5C |
+|       _**Left Bracket**_       |   [   |    [    |      91 | _01011011_ |          5B |
+|      _**Backward Slash**_      |   \   |    \    |      92 | _01011100_ |          5C |
 |     _**Right Bracket**_     |   ]   |    ]    |      93 | _01011101_ |          5D |
 |         _**Caret**_         |   ^   | Shift 6 |      94 | _01011110_ |          5E |
 |      _**Underscore**_       |   _   | Shift - |      95 | _01011111_ |          5F |
