@@ -141,7 +141,7 @@ ASCII stands for "American Standard Code for Information Interchange".
 
 ## Thanks for watching!
 
-If you liked my coding then follow me on my Social Media.
+If you like my code then follow me on my social media. Thank you!
 
 [![](https://img.shields.io/badge/github-39d353?style=for-the-badge)](https://github.com/fabianzelaya)
 [![](https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge)](https://twitter.com/fabianzelayahn)
