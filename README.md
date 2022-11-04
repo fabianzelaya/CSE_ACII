@@ -130,7 +130,7 @@ ASCII stands for "American Standard Code for Information Interchange".
 |     _**Lower-case Y**_      |   y   |    Y    |     121 | _01111001_ |          79 |
 |     _**Lower-case Z**_      |   z   |    Z    |     122 | _01111010_ |          7A |
 |      _**Left Brace**_       |   {   | Shift [ |     123 | _01111011_ |          7B |
-|     _**Vertical Bar**_      |       | Shift \ |     124 | _01111100_ |          7C |
+|     _**Vertical Bar**_      | **|** | Shift \ |     124 | _01111100_ |          7C |
 |      _**Right Brace**_      |   }   | Shift ] |     125 | _01111101_ |          7D |
 |         _**Tilde**_         |   ~   | Shift ` |     126 | _01111110_ |          7E |
 |         _**Delta**_         |   D   |         |     127 | _01111111_ |          7F |
