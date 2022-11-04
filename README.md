@@ -119,21 +119,21 @@ ASCII stands for "American Standard Code for Information Interchange".
 |     _**Lower-case N**_      |   n   |    N    |     110 | _01101110_ |          6E |
 |     _**Lower-case O**_      |   o   |    O    |     111 | _01101111_ |          6F |
 |     _**Lower-case P**_      |   p   |    P    |     112 | _01110000_ |          70 |
-| _**Lower-case Q**_ | q | Q | 113 | _01110001_ | 71 |
-| _**Lower-case R**_ | r | R | 114 | _01110010_ | 72 |
-| _**Lower-case S**_ | s | S | 115 | _01110011_ | 73 |
-| _**Lower-case T**_ | t | T | 116 | _01110100_ | 74 |
-| _**Lower-case U**_ | u | U | 117 | _01110101_ | 75 |
-| _**Lower-case V**_ | v | V | 118 | _01110110_ | 76 |
-| _**Lower-case W**_ | w | W | 119 | _01110111_ | 77 |
-| _**Lower-case X**_ | x | X | 120 | _01111000_ | 78 |
-| _**Lower-case Y**_ | y | Y | 121 | _01111001_ | 79 |
-| _**Lower-case Z**_ | z | Z | 122 | _01111010_ | 7A |
-| _**Left Brace**_ | { | Shift [ | 123 | _01111011_ | 7B |
-| _**Vertical Bar**_ | | | Shift \ | 124 | _01111100_ | 7C |
-| _**Right Brace**_ | } | Shift ] | 125 | _01111101_ | 7D |
-| _**Tilde**_ | ~ | Shift ` | 126 | _01111110_ | 7E |
-| _**Delta**_ | D |   | 127 | _01111111_ | 7F |
+|     _**Lower-case Q**_      |   q   |    Q    |     113 | _01110001_ |          71 |
+|     _**Lower-case R**_      |   r   |    R    |     114 | _01110010_ |          72 |
+|     _**Lower-case S**_      |   s   |    S    |     115 | _01110011_ |          73 |
+|     _**Lower-case T**_      |   t   |    T    |     116 | _01110100_ |          74 |
+|     _**Lower-case U**_      |   u   |    U    |     117 | _01110101_ |          75 |
+|     _**Lower-case V**_      |   v   |    V    |     118 | _01110110_ |          76 |
+|     _**Lower-case W**_      |   w   |    W    |     119 | _01110111_ |          77 |
+|     _**Lower-case X**_      |   x   |    X    |     120 | _01111000_ |          78 |
+|     _**Lower-case Y**_      |   y   |    Y    |     121 | _01111001_ |          79 |
+|     _**Lower-case Z**_      |   z   |    Z    |     122 | _01111010_ |          7A |
+|      _**Left Brace**_       |   {   | Shift [ |     123 | _01111011_ |          7B |
+|     _**Vertical Bar**_      |       | Shift \ |     124 | _01111100_ |          7C |
+|      _**Right Brace**_      |   }   | Shift ] |     125 | _01111101_ |          7D |
+|         _**Tilde**_         |   ~   | Shift ` |     126 | _01111110_ |          7E |
+|         _**Delta**_         |   D   |         |     127 | _01111111_ |          7F |
 
 
 
