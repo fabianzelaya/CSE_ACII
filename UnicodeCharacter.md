@@ -12,9 +12,9 @@
 | Version      | Unicode 3.2.0 (March, 2002)                          |
 
 
-| Encodings                        |
+| Encodings                        |                            |
 | -------------------------------- | :------------------------- |
-| HTML Entity                      | (decimal)	&#9134;          |
+| HTML Entity (decimal)            | &#9134;                    |
 | HTML Entity (hex)                | &#x23ae;                   |
 | How to type in Microsoft Windows | Alt +23AE                  |
 | UTF-8 (hex)                      | 0xE2 0x8E 0xAE (e28eae)    |
