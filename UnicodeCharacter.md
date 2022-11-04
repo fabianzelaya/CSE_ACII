@@ -1,6 +1,7 @@
 ## Unicode Character 'INTEGRAL EXTENSION' (U+23AE)
 
-[label](https://www.fileformat.info/info/unicode/char/23ae/browsertest.htm)
+![integral_extension](https://user-images.githubusercontent.com/71942518/200048762-68f4045a-a622-4419-a9d6-4c231239208e.png)
+
 
 | Unicode Data |                                                      |
 | ------------ | :--------------------------------------------------- |
