@@ -38,7 +38,7 @@ ASCII stands for "American Standard Code for Information Interchange".
 |    _**Group Separator**_    |  GS   | Ctrl ]  |      29 | _00011101_ |          1D |
 |   _**Record Separator**_    |  RS   | Ctrl ^  |      30 | _00011110_ |          1E |
 |    _**Unit Separator**_     |  US   | Ctrl _  |      31 | _00011111_ |          1F |
-|         _**Space**_          |       |         |      32 | _00100000_ |          20 |
+|         _**Space**_         |       |         |      32 | _00100000_ |          20 |
 |   _**Exclamation Point**_   |   !   | Shift 1 |      33 | _00100001_ |          21 |
 |     _**Double Quote**_      |   "   | Shift ‘ |      34 | _00100010_ |          22 |
 |   _**Pound/Number Sign**_   |   #   | Shift 3 |      35 | _00100011_ |          23 |
@@ -61,7 +61,7 @@ ASCII stands for "American Standard Code for Information Interchange".
 |      _**Four Digit**_       |   4   |    4    |      52 | _00110100_ |          34 |
 |      _**Five Digit**_       |   5   |    5    |      53 | _00110101_ |          35 |
 |       _**Six Digit**_       |   6   |    6    |      54 | _00110110_ |          36 |
-|       _**Seven Digit**_       |   7   |    7    |      55 | _00110111_ |          37 |
+|      _**Seven Digit**_      |   7   |    7    |      55 | _00110111_ |          37 |
 |      _**Eight Digit**_      |   8   |    8    |      56 | _00111000_ |          38 |
 |      _**Nine Digit**_       |   9   |    9    |      57 | _00111001_ |          39 |
 |         _**Colon**_         |   :   | Shift ; |      58 | _00111010_ |          3A |
@@ -69,7 +69,7 @@ ASCII stands for "American Standard Code for Information Interchange".
 |    _**Less-Than Sign**_     |   <   | Shift , |      60 | _00111100_ |          3C |
 |      _**Equals Sign**_      |   =   |    =    |      61 | _00111101_ |          3D |
 |   _**Greater-Than Sign**_   |   >   | Shift . |      62 | _00111110_ |          3E |
-|      _**Question Mark**_       |   ?   | Shift / |      63 | _00111111_ |          3F |
+|     _**Question Mark**_     |   ?   | Shift / |      63 | _00111111_ |          3F |
 |        _**At Sign**_        |   @   | Shift 2 |      64 | _01000000_ |          40 |
 |       _**Capital A**_       |   A   | Shift A |      65 | _01000001_ |          41 |
 |       _**Capital B**_       |   B   | Shift B |      66 | _01000010_ |          42 |
@@ -97,8 +97,8 @@ ASCII stands for "American Standard Code for Information Interchange".
 |       _**Capital X**_       |   X   | Shift X |      88 | _01011000_ |          58 |
 |       _**Capital Y**_       |   Y   | Shift Y |      89 | _01011001_ |          59 |
 |       _**Capital Z**_       |   Z   | Shift Z |      90 | _01011010_ |          5A |
-|       _**Left Bracket**_       |   [   |    [    |      91 | _01011011_ |          5B |
-|      _**Backward Slash**_      |   \   |    \    |      92 | _01011100_ |          5C |
+|     _**Left Bracket**_      |   [   |    [    |      91 | _01011011_ |          5B |
+|    _**Backward Slash**_     |   \   |    \    |      92 | _01011100_ |          5C |
 |     _**Right Bracket**_     |   ]   |    ]    |      93 | _01011101_ |          5D |
 |         _**Caret**_         |   ^   | Shift 6 |      94 | _01011110_ |          5E |
 |      _**Underscore**_       |   _   | Shift - |      95 | _01011111_ |          5F |
@@ -116,174 +116,24 @@ ASCII stands for "American Standard Code for Information Interchange".
 |     _**Lower-case K**_      |   k   |    K    |     107 | _01101011_ |          6B |
 |     _**Lower-case L**_      |   l   |    L    |     108 | _01101100_ |          6C |
 |     _**Lower-case M**_      |   m   |    M    |     109 | _01101101_ |          6D |
-|     _**Lower-case N**_      | n | N | 110 | _01101110_ | 6E |
-| _**Lower-case O**_ | o | O | 111 | _01101111_ | 6F |
-| _**Lower-case P**_ | p | P | 112 | _01110000_ | 70 |
-| _**Lower-case Q
-
-q
-
-Q
-
-113
-
-01110001
-
-71
-| _**Lower-case R
-
-r
-
-R
-
-114
-
-01110010
-
-72
-| _**Lower-case S
-
-s
-
-S
-
-115
-
-01110011
-
-73
-| _**Lower-case T
-
-t
-
-T
-
-116
-
-01110100
-
-74
-| _**Lower-case U
-
-u
-
-U
-
-117
-
-01110101
-
-75
-| _**Lower-case V
-
-v
-
-V
-
-118
-
-01110110
-
-76
-| _**Lower-case W
-
-w
-
-W
-
-119
-
-01110111
-
-77
-| _**Lower-case X
-
-x
-
-X
-
-120
-
-01111000
-
-78
-| _**Lower-case Y
-
-y
-
-Y
-
-121
-
-01111001
-
-79
-| _**Lower-case Z
-
-z
-
-Z
-
-122
-
-01111010
-
-7A
-| _**Left Brace
-
-{
-
-Shift [
-
-123
-
-01111011
-
-7B
-| _**Vertical Bar
-
-|
-
-Shift \
-
-124
-
-01111100
-
-7C
-| _**Right Brace
-
-}
-
-Shift ]
-
-125
-
-01111101
-
-7D
-| _**Tilde
-
-~
-
-Shift `
-
-126
-
-01111110
-
-7E
-| _**Delta
-
-D
-
- 	
-127
-
-01111111
-
-7F
-
+|     _**Lower-case N**_      |   n   |    N    |     110 | _01101110_ |          6E |
+|     _**Lower-case O**_      |   o   |    O    |     111 | _01101111_ |          6F |
+|     _**Lower-case P**_      |   p   |    P    |     112 | _01110000_ |          70 |
+| _**Lower-case Q**_ | q | Q | 113 | _01110001_ | 71 |
+| _**Lower-case R**_ | r | R | 114 | _01110010_ | 72 |
+| _**Lower-case S**_ | s | S | 115 | _01110011_ | 73 |
+| _**Lower-case T**_ | t | T | 116 | _01110100_ | 74 |
+| _**Lower-case U**_ | u | U | 117 | _01110101_ | 75 |
+| _**Lower-case V**_ | v | V | 118 | _01110110_ | 76 |
+| _**Lower-case W**_ | w | W | 119 | _01110111_ | 77 |
+| _**Lower-case X**_ | x | X | 120 | _01111000_ | 78 |
+| _**Lower-case Y**_ | y | Y | 121 | _01111001_ | 79 |
+| _**Lower-case Z**_ | z | Z | 122 | _01111010_ | 7A |
+| _**Left Brace**_ | { | Shift [ | 123 | _01111011_ | 7B |
+| _**Vertical Bar**_ | | | Shift \ | 124 | _01111100_ | 7C |
+| _**Right Brace**_ | } | Shift ] | 125 | _01111101_ | 7D |
+| _**Tilde**_ | ~ | Shift ` | 126 | _01111110_ | 7E |
+| _**Delta**_ | D |   | 127 | _01111111_ | 7F |
 
 
 
