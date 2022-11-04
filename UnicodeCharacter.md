@@ -29,7 +29,7 @@
 | Java Data                            |                                    |
 | ------------------------------------ | :--------------------------------- |
 | string.toUpperCase()                 | ⎮                                  |
-| string.toLowerCase()	⎮               |                                    |
+| string.toLowerCase()                 | ⎮                                  |
 | Character.UnicodeBlock               | MISCELLANEOUS_TECHNICAL            |
 | Character.charCount()                | 1                                  |
 | Character.getDirectionality()        | DIRECTIONALITY_OTHER_NEUTRALS [13] |
