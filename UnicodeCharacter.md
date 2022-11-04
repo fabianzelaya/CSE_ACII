@@ -26,30 +26,30 @@
 | C/C++/Java source code           | "\u23AE"                   |
 | Python source code               | u"\u23AE"                  |
 
-| Java Data                                    |                                    |
-| -------------------------------------------- | :--------------------------------- |
-| string.toUpperCase()                         | <code>&#x23ae;</code>	⎮            |
-| string.toLowerCase()	⎮ <code>&#x23ae;</code> |
-| Character.UnicodeBlock                       | MISCELLANEOUS_TECHNICAL            |
-| Character.charCount()                        | 1                                  |
-| Character.getDirectionality()                | DIRECTIONALITY_OTHER_NEUTRALS [13] |
-| Character.getNumericValue()                  | -1                                 |
-| Character.getType()                          | 25                                 |
-| Character.isDefined()                        | Yes                                |
-| Character.isDigit()                          | No                                 |
-| Character.isIdentifierIgnorable()            | No                                 |
-| Character.isISOControl()                     | No                                 |
-| Character.isJavaIdentifierPart()             | No                                 |
-| Character.isJavaIdentifierStart()            | No                                 |
-| Character.isLetter()                         | No                                 |
-| Character.isLetterOrDigit()                  | No                                 |
-| Character.isLowerCase()                      | No                                 |
-| Character.isMirrored()                       | No                                 |
-| Character.isSpaceChar()                      | No                                 |
-| Character.isSupplementaryCodePoint()         | No                                 |
-| Character.isTitleCase()                      | No                                 |
-| Character.isUnicodeIdentifierPart()          | No                                 |
-| Character.isUnicodeIdentifierStart()         | No                                 |
-| Character.isUpperCase()                      | No                                 |
-| Character.isValidCodePoint()                 | Yes                                |
-| Character.isWhitespace()                     | No                                 |
+| Java Data                            |                                    |
+| ------------------------------------ | :--------------------------------- |
+| string.toUpperCase()                 | ⎮                                  |
+| string.toLowerCase()	⎮               |                                    |
+| Character.UnicodeBlock               | MISCELLANEOUS_TECHNICAL            |
+| Character.charCount()                | 1                                  |
+| Character.getDirectionality()        | DIRECTIONALITY_OTHER_NEUTRALS [13] |
+| Character.getNumericValue()          | -1                                 |
+| Character.getType()                  | 25                                 |
+| Character.isDefined()                | Yes                                |
+| Character.isDigit()                  | No                                 |
+| Character.isIdentifierIgnorable()    | No                                 |
+| Character.isISOControl()             | No                                 |
+| Character.isJavaIdentifierPart()     | No                                 |
+| Character.isJavaIdentifierStart()    | No                                 |
+| Character.isLetter()                 | No                                 |
+| Character.isLetterOrDigit()          | No                                 |
+| Character.isLowerCase()              | No                                 |
+| Character.isMirrored()               | No                                 |
+| Character.isSpaceChar()              | No                                 |
+| Character.isSupplementaryCodePoint() | No                                 |
+| Character.isTitleCase()              | No                                 |
+| Character.isUnicodeIdentifierPart()  | No                                 |
+| Character.isUnicodeIdentifierStart() | No                                 |
+| Character.isUpperCase()              | No                                 |
+| Character.isValidCodePoint()         | Yes                                |
+| Character.isWhitespace()             | No                                 |
